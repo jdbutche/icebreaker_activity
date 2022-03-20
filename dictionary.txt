@@ -11,14 +11,13 @@ BMW = a car brand
 Biergarten = beer garden
 Ratskeller = council room
 Dirndel 
-Lederhose 
-Schloss 
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+Lederhose = leather pants
+wettbewerbsfaehig = competitive
+Mehlhase = SER 316 instructor
+Gebaeck = pastries
+Baeckerei = bakery
+Hund = dog
+Doener = doner
+Apfelkuchen = apple cake
+Schloss = lock
+Eltz = the name of a castle
