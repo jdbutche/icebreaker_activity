@@ -10,7 +10,7 @@ Porsche = a car brand
 BMW = a car brand
 Biergarten = beer garden
 Ratskeller = council room
-Dirndel 
+Dirndel = a folk costume 
 Lederhose = leather pants
 wettbewerbsfaehig = competitive
 Mehlhase = SER 316 instructor
