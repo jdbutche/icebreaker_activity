@@ -1,0 +1,24 @@
+Raesfeld = a place
+Flughafen = airport
+Berlin = a place
+Bratwurst = German sausage
+Hauptstrasse = main road
+Brot = bread
+Klimaanlage = air conditioning
+Rammstein = Rammstein
+Porsche = a car brand
+BMW = a car brand
+Biergarten = beer garden
+Ratskeller = council room
+Dirndel 
+Lederhose 
+Schloss 
+wettbewerbsfaehig 
+Mehlhase 
+Gebaeck
+Baeckerei 
+Hund 
+Doener 
+Apfelkuchen 
+Schloss 
+Eltz
